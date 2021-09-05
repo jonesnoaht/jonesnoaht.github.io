@@ -1,0 +1,16 @@
+body {
+    font-family: Helvetica, sans-serif;
+    bg-color: #aaaaff;
+}
+
+menu {
+    height: 50px;
+    width: 90%;
+    bg-color: white;
+}
+
+article {
+    height: auto;
+    width: 90%;
+    bg-color: white;
+}
