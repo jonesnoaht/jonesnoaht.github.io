@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    body {
+    font-family: Helvetica, sans-serif;
+    bg-color: #aaaaff;
+    }
+  </head>
+  <body>
+    <div style="hight: 100px; width = 90%;">
+    </div>
+  </body>
+</html>
